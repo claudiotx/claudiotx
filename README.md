@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **OIDC, Smart Contracts**
 
-- 👯 I’m looking to collaborate on **Altar.io**
+- 👯 I’m currently CTO on **Altar.io**
 
 - 👨‍💻 Some of my projects are available at [www.claudioteixeira.com](www.claudioteixeira.com)
 
 - 📝 I regularly write articles on [recipes.coding-cloud.com](recipes.coding-cloud.com)
 
-- 💬 Ask me about **angular, kubernetes, startups, fullstack, enterprise**
+- 💬 Ask me about **angular, kubernetes, startups, full-stack, enterprise**
 
 - 📫 How to reach me **contact@claudioteixeira.com**
 
