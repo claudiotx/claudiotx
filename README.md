@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Claudio Teixeira</h1>
-<h3 align="center">MsC Software Engineer</h3>
+<h3 align="center">MsC Software Engineer (MIT-I)</h3>
 
 - 🌱 I’m currently learning **OIDC, Smart Contracts**
 
@@ -17,9 +17,9 @@
 
 <h3 align="left">What I do:</h3>
 <p>
-  I can help you and your company on all stages of your web or mobile product development process (state of the art industry standards) from Frontend, Backend, Message Queues, CI/CD Operations, Cloud Infrastructure provisioning and management, Telemetry, Security, Compliance and Quality Assurance.
+  I help companies on all stages of web or mobile product development process (state of the art industry standards) from Frontend, Backend, Message Queues, CI/CD Operations, Cloud Infrastructure provisioning and management, Telemetry, Observability, Security, SLA, Compliance and Quality Assurance.
 
-I'm specialised in helping startups 🦄 across all stages of web product development , deployment and operations , leading and managing development teams, architecting and building commercial large scale web applications.
+I'm specialised in helping startups 🦄 across all stages of web product development, deployment and operations, leading and managing development teams, architecting and building commercial large scale web applications.
 
 Industries: Sportsbook, Online Gambling, Online Casinos, Advertisement, Software as a Service (SaaS) tools within others).
   </p>
