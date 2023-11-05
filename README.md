@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Claudio Teixeira</h1>
 <h3 align="center">MsC Software Engineer (MIT-I)</h3>
 
-- 🌱 I’m currently learning **OIDC, Smart Contracts**
+- 🌱 Learning/Science/Research: AI / LLM **Generative AI**
 
-- 👯 I’m currently CTO on **Altar.io**
+- 👯 Professional Occupation: Fractional CTO on **Altar.io**
 
-- 👨‍💻 Some of my projects are available at [www.claudioteixeira.com](www.claudioteixeira.com)
+- 👨‍💻 Some of my projects (outdated) are available at [www.claudioteixeira.com](www.claudioteixeira.com)
 
-- 📝 I regularly write articles on [recipes.coding-cloud.com](recipes.coding-cloud.com)
+- 📝 I regularly write articles on [recipes.coding-cloud.com](recipes.coding-cloud.com) and frontier.coding-cloud.com](frontier.coding-cloud.com) 
 
-- 💬 Ask me about **angular, kubernetes, startups, full-stack, enterprise**
+- 💬 Ask me about **LLMs, AI, ML, AGI, Angular, K8s, Startups, Full-stack development, Enterprise applications**
 
 - 📫 How to reach me **contact@claudioteixeira.com**
 
-- 📄 Know about my experiences [www.claudioteixeira.com](www.claudioteixeira.com)
+- 📄 Know about my experiences (outdated) [www.claudioteixeira.com](www.claudioteixeira.com)
 
 <h3 align="left">What I do:</h3>
 <p>
@@ -22,6 +22,8 @@
 I'm specialised in helping startups 🦄 across all stages of web product development, deployment and operations, leading and managing development teams, architecting and building commercial large scale web applications.
 
 Industries: Sportsbook, Online Gambling, Online Casinos, Advertisement, Software as a Service (SaaS) tools within others).
+
+Also specialised on usage of Large Language Models and Artificial Intelligence across Software Companies and also on products.
   </p>
 <p align="left">
 </p>
