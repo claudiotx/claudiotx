@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Claudio Teixeira</h1>
-<h3 align="center">MsC Software Engineer (MIT-I)</h3>
+<h3 align="center">MsC Software Engineer / Technical Engineering Manager </h3>
 
-- 🌱 Learning/Science/Research: AI / LLM **Generative AI**
+- 🌱 Active Learning/Science/Research: AI / LLMs / Agentic Systems / Automation
 
-- 👯 Professional Occupation: Fractional CTO on **Altar.io**
+- 👯 Current Professional Occupation: Lead AI Engineer on **WeAreMeta**
 
 - 👨‍💻 Some of my projects (outdated) are available at [www.claudioteixeira.com](www.claudioteixeira.com)
 
-- 📝 I regularly write articles on [recipes.coding-cloud.com](recipes.coding-cloud.com) and frontier.coding-cloud.com](frontier.coding-cloud.com) 
+- 📝 I regularly write articles on [www.coding-cloud.com](www.coding-cloud.com) and [www.aispectrum.io](www.aispectrum.io)
 
 - 💬 Ask me about **LLMs, AI, ML, AGI, Angular, K8s, Startups, Full-stack development, Enterprise applications**
 
