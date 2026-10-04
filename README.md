@@ -1,32 +1,78 @@
 <h1 align="center">Hi 👋, I'm Claudio Teixeira</h1>
-<h3 align="center">MsC Software Engineer / Technical Engineering Manager </h3>
 
-- 🌱 Active Learning/Science/Research: AI / LLMs / Agentic Systems / Automation
+<h3 align="center">Head of AI & Principal Architect</h3>
 
-- 👯 Current Professional Occupation: Lead AI Engineer on **WeAreMeta**
-
-- 👨‍💻 Some of my projects (outdated) are available at [www.claudioteixeira.com](www.claudioteixeira.com)
-
-- 📝 I regularly write articles on [www.coding-cloud.com](www.coding-cloud.com) and [www.aispectrum.io](www.aispectrum.io)
-
-- 💬 Ask me about **LLMs, AI, ML, AGI, Angular, K8s, Startups, Full-stack development, Enterprise applications**
-
-- 📫 How to reach me **contact@claudioteixeira.com**
-
-- 📄 Know about my experiences (outdated) [www.claudioteixeira.com](www.claudioteixeira.com)
-
-<h3 align="left">What I do:</h3>
-<p>
-  I help companies on all stages of web or mobile product development process (state of the art industry standards) from Frontend, Backend, Message Queues, CI/CD Operations, Cloud Infrastructure provisioning and management, Telemetry, Observability, Security, SLA, Compliance and Quality Assurance.
-
-I'm specialised in helping startups 🦄 across all stages of web product development, deployment and operations, leading and managing development teams, architecting and building commercial large scale web applications.
-
-Industries: Sportsbook, Online Gambling, Online Casinos, Advertisement, Software as a Service (SaaS) tools within others).
-
-Also specialised on usage of Large Language Models and Artificial Intelligence across Software Companies and also on products.
-  </p>
-<p align="left">
+<p align="center">
+  Crafting Software 3.0 (Human + AI) · Automating the SDLC through AI Agent Fleets
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://aispectrum.io">AI Spectrum</a> ·
+  <a href="mailto:contact@claudioteixeira.com">Get in touch</a>
+</p>
+
+---
+
+## About Me
+
+I build **agentic applications**, orchestrate **AI agent fleets**, and scale the software and teams behind them.
+
+Over **15+ years**, I’ve delivered **70+ applications** across industries and scaled engineering teams to **30+ developers**. My work combines hands-on engineering, system architecture, and technical leadership—from early-stage startup products to distributed enterprise systems.
+
+My focus is **Software 3.0: humans and AI building together**. That means both building applications powered by agents and designing the environments and workflows where agents help us build better software.
+
+## What I Do
+
+### 🤖 AI Fleet Management & ADE Workflows
+Design and orchestrate fleets of specialized AI agents within **Agentic Development Environments (ADEs)** to automate and accelerate the software development lifecycle—with human oversight and engineering judgment built into the process.
+
+### 🧠 Agentic Applications & Applied AI
+Architect and implement production-grade AI applications for **enterprises and startups**: autonomous and semi-autonomous agents, complex RAG pipelines, and human-in-the-loop workflows. My work spans model integration, LoRA fine-tuning, and inference optimization.
+
+### 🏗️ Architecture & Scaling
+Design, build, and evolve applications as their users, workloads, and business requirements grow. My background spans **microservices, event-driven systems, cloud infrastructure, and end-to-end product delivery**.
+
+### 🚀 Hands-On Technical Leadership
+Connect business goals with technical execution. I work across the stack—from frontends and backend services to databases, CI/CD, Kubernetes, observability, and production operations.
+
+### 🌱 Mentorship & Training
+Lead as a **player-coach**: write code, guide architectural decisions, mentor developers, and deliver practical training in software engineering and AI-assisted development.
+
+## Technical Toolkit
+
+| Area | Technologies & Practices |
+| --- | --- |
+| **AI & Agent Systems** | Agent fleet orchestration, ADE workflows, LangChain, AutoGen, LlamaIndex |
+| **Retrieval & Inference** | RAG, Weaviate, LoRA fine-tuning, vLLM, Ollama |
+| **Languages** | TypeScript, JavaScript, Python |
+| **Backend** | Node.js, Hono, NestJS, FastAPI |
+| **Frontend** | React, Next.js, Angular |
+| **Data & Messaging** | PostgreSQL, MongoDB, Redis, RabbitMQ |
+| **Cloud & Infrastructure** | AWS, Docker, Kubernetes, Terraform, CI/CD |
+| **Architecture & Operations** | Distributed systems, microservices, event-driven architecture, observability |
+
+## Experience at a Glance
+
+- **15+ years** building and scaling software across industries.
+- **70+ applications** delivered.
+- Engineering teams scaled to **30+ developers**.
+- Solutions delivered for **Coca-Cola**, **SERHANT.**, and **VC-funded startups**.
+- Experience across **AI applications, SaaS, real estate, advertising, sports betting, and gaming**.
+
+## Writing & Sharing
+
+I run **[AI Spectrum](https://aispectrum.io)**, where I write about AI, agentic systems, and software development.
+
+I also mentor developers and deliver hands-on training, helping teams apply these ideas to real products and engineering workflows.
+
+## Let's Connect
+
+Happy to talk about **agentic applications, AI fleet management, ADE workflows, system architecture, scaling products, and developer mentorship**.
+
+📫 **[contact@claudioteixeira.com](mailto:contact@claudioteixeira.com)**
+
+---
+
+<p align="center">
+  <b>Hands-on architect. Applied AI engineer. Player-coach.</b>
+</p>
